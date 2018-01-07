@@ -1,0 +1,6 @@
+const char valueofnume[], const char valueofdataaducerii[], const float valueofgreutate, const char valueofhranapreferata[], const float valueofcantitatepezi
+strcpy(nume, valueofnume);
+	strcpy(dataaducerii, valueofdataaducerii);
+	*greutate = valueofgreutate;
+	strcpy(hranapreferata, valueofhranapreferata);
+	*cantitatepezi = valueofcantitatepezi;
