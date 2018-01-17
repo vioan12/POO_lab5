@@ -8,6 +8,12 @@ CUrs::CUrs(const char valueofnume[], const char valueofdataaducerii[], const flo
 	*perioadahibernare = valueofperioadahibernare;
 }
 
+CUrs::CUrs(const CUrs &urs) : CAnimalIerbivor(urs), CAnimalCarnivor(urs)
+{
+	perioadahibernare = new int;
+	*perioadahibernare = *urs.perioadahibernare;
+}
+
 CUrs::~CUrs()
 {
 	delete perioadahibernare;

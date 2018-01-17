@@ -8,27 +8,32 @@ CRezervatie::CRezervatie()
 
 void CRezervatie::Add_Caprioara(CCaprioara caprioara)
 {
-	caprioare.push_back(caprioara);
+	CCaprioara temp(caprioara);
+	caprioare.push_back(temp);
 }
 
 void CRezervatie::Add_Iepure(CIepure iepure)
 {
-	iepuri.push_back(iepure);
+	CIepure temp(iepure);
+	iepuri.push_back(temp);
 }
 
 void CRezervatie::Add_Leu(CLeu leu)
 {
-	lei.push_back(leu);
+	CLeu temp(leu);
+	lei.push_back(temp);
 }
 
 void CRezervatie::Add_Urs(CUrs urs)
 {
-	ursi.push_back(urs);
+	CUrs temp(urs);
+	ursi.push_back(temp);
 }
 
 void CRezervatie::Add_Vulpe(CVulpe vulpe)
 {
-	vulpi.push_back(vulpe);
+	CVulpe temp(vulpe);
+	vulpi.push_back(temp);
 }
 
 int CRezervatie::Size_caprioare()

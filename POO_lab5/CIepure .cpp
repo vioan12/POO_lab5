@@ -8,6 +8,12 @@ CIepure::CIepure(const char valueofnume[], const char valueofdataaducerii[], con
 	*suprafataminima = valueofsuprafataminima;
 }
 
+CIepure::CIepure(const CIepure &iepure) : CAnimalIerbivor(iepure)
+{
+	suprafataminima = new float;
+	*suprafataminima = *iepure.suprafataminima;
+}
+
 CIepure::~CIepure()
 {
 	delete suprafataminima;

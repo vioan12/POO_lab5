@@ -6,6 +6,10 @@ CAnimalCarnivor::CAnimalCarnivor(const char valueofnume[], const char valueofdat
 {
 }
 
+CAnimalCarnivor::CAnimalCarnivor(const CAnimalCarnivor &animalcarnivor) : CAnimal(animalcarnivor)
+{
+}
+
 CAnimalCarnivor::~CAnimalCarnivor()
 {
 }

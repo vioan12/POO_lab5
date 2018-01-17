@@ -8,6 +8,12 @@ CCaprioara::CCaprioara(const char valueofnume[], const char valueofdataaducerii[
 	*nrpui = valueofnrpui;
 }
 
+CCaprioara::CCaprioara(const CCaprioara &caprioara) : CAnimalIerbivor(caprioara)
+{
+	nrpui = new int;
+	*nrpui = *caprioara.nrpui;
+}
+
 CCaprioara::~CCaprioara()
 {
 	delete nrpui;

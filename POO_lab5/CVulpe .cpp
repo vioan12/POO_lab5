@@ -12,6 +12,15 @@ CVulpe::CVulpe(const char valueofnume[], const char valueofdataaducerii[], const
 	strcpy(tip, valueoftip);
 }
 
+CVulpe::CVulpe(const CVulpe &vulpe) : CAnimalIerbivor(vulpe), CAnimalCarnivor(vulpe)
+{
+	temperaturamaxima = new float;
+	tip = new char[strlen(vulpe.tip) + 1];
+
+	*temperaturamaxima = *vulpe.temperaturamaxima;
+	strcpy(tip, vulpe.tip);
+}
+
 CVulpe::~CVulpe()
 {
 	delete temperaturamaxima;

@@ -12,6 +12,15 @@ CLeu::CLeu(const char valueofnume[], const char valueofdataaducerii[], const flo
 	strcpy(taraprovenienta, valueoftaraprovenienta);
 }
 
+CLeu::CLeu(const CLeu &leu) : CAnimalCarnivor(leu)
+{
+	temperaturaminima = new float;
+	taraprovenienta = new char[strlen(leu.taraprovenienta) + 1];
+
+	*temperaturaminima = *leu.temperaturaminima;
+	strcpy(taraprovenienta, leu.taraprovenienta);
+}
+
 CLeu::~CLeu()
 {
 	delete temperaturaminima;

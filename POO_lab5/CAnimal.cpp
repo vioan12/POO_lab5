@@ -18,6 +18,21 @@ CAnimal::CAnimal(const char valueofnume[], const char valueofdataaducerii[], con
 	*cantitatepezi = valueofcantitatepezi;
 }
 
+CAnimal::CAnimal(const CAnimal &animal)
+{
+	nume = new char[strlen(animal.nume) + 1];
+	dataaducerii = new char[strlen(animal.dataaducerii) + 1];
+	greutate = new float;
+	hranapreferata = new char[strlen(animal.hranapreferata) + 1];
+	cantitatepezi = new float;
+
+	strcpy(nume, animal.nume);
+	strcpy(dataaducerii, animal.dataaducerii);
+	*greutate = *animal.greutate;
+	strcpy(hranapreferata, animal.hranapreferata);
+	*cantitatepezi = *animal.cantitatepezi;
+}
+
 CAnimal::~CAnimal()
 {
 	delete[] nume;

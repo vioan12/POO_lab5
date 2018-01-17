@@ -1,129 +1,27 @@
-﻿  ReadWrite.cpp
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(121): error C3867: 'CRezervatie::Size_caprioare': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(121): error C2446: '<': no conversion from 'int (__thiscall CRezervatie::* )(void)' to 'int'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(121): note: There is no context in which this conversion is possible
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(124): error C2247: 'CAnimal::Get_nume' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(17): note: see declaration of 'CAnimal::Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(124): error C3867: 'CAnimal::Get_nume': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(124): error C2247: 'CAnimal::Get_dataaducerii' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(18): note: see declaration of 'CAnimal::Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(124): error C3867: 'CAnimal::Get_dataaducerii': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(124): error C2276: '*': illegal operation on bound member function expression
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(129): error C3867: 'CRezervatie::Size_iepuri': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(129): error C2446: '<': no conversion from 'int (__thiscall CRezervatie::* )(void)' to 'int'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(129): note: There is no context in which this conversion is possible
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(132): error C2247: 'CAnimal::Get_nume' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(17): note: see declaration of 'CAnimal::Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(132): error C3867: 'CAnimal::Get_nume': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(132): error C2247: 'CAnimal::Get_dataaducerii' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(18): note: see declaration of 'CAnimal::Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(132): error C3867: 'CAnimal::Get_dataaducerii': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(132): error C2276: '*': illegal operation on bound member function expression
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(137): error C3867: 'CRezervatie::Size_lei': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(137): error C2446: '<': no conversion from 'int (__thiscall CRezervatie::* )(void)' to 'int'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(137): note: There is no context in which this conversion is possible
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(140): error C2247: 'CAnimal::Get_nume' not accessible because 'CAnimalCarnivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(17): note: see declaration of 'CAnimal::Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(24): note: see declaration of 'CAnimalCarnivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(140): error C3867: 'CAnimal::Get_nume': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(140): error C2247: 'CAnimal::Get_dataaducerii' not accessible because 'CAnimalCarnivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(18): note: see declaration of 'CAnimal::Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(24): note: see declaration of 'CAnimalCarnivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(140): error C3867: 'CAnimal::Get_dataaducerii': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(140): error C2276: '*': illegal operation on bound member function expression
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(145): error C3867: 'CRezervatie::Size_ursi': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(145): error C2446: '<': no conversion from 'int (__thiscall CRezervatie::* )(void)' to 'int'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(145): note: There is no context in which this conversion is possible
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2385: ambiguous access of 'Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: could be the 'Get_nume' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: or could be the 'Get_nume' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2247: 'CAnimal::Get_nume' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(17): note: see declaration of 'CAnimal::Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C3867: 'CAnimal::Get_nume': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2385: ambiguous access of 'Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: could be the 'Get_dataaducerii' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: or could be the 'Get_dataaducerii' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2247: 'CAnimal::Get_dataaducerii' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(18): note: see declaration of 'CAnimal::Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C3867: 'CAnimal::Get_dataaducerii': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2385: ambiguous access of 'Get_greutate'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: could be the 'Get_greutate' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: or could be the 'Get_greutate' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2276: '*': illegal operation on bound member function expression
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2385: ambiguous access of 'Get_hranapreferata'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: could be the 'Get_hranapreferata' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: or could be the 'Get_hranapreferata' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): error C2385: ambiguous access of 'Get_cantitatepezi'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: could be the 'Get_cantitatepezi' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(148): note: or could be the 'Get_cantitatepezi' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(153): error C3867: 'CRezervatie::Size_vulpi': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(153): error C2446: '<': no conversion from 'int (__thiscall CRezervatie::* )(void)' to 'int'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(153): note: There is no context in which this conversion is possible
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2385: ambiguous access of 'Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: could be the 'Get_nume' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: or could be the 'Get_nume' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2247: 'CAnimal::Get_nume' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(17): note: see declaration of 'CAnimal::Get_nume'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C3867: 'CAnimal::Get_nume': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2385: ambiguous access of 'Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: could be the 'Get_dataaducerii' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: or could be the 'Get_dataaducerii' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2247: 'CAnimal::Get_dataaducerii' not accessible because 'CAnimalIerbivor' uses 'protected' to inherit from 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(18): note: see declaration of 'CAnimal::Get_dataaducerii'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(31): note: see declaration of 'CAnimalIerbivor'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(9): note: see declaration of 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C3867: 'CAnimal::Get_dataaducerii': non-standard syntax; use '&' to create a pointer to member
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2385: ambiguous access of 'Get_greutate'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: could be the 'Get_greutate' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: or could be the 'Get_greutate' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2276: '*': illegal operation on bound member function expression
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2385: ambiguous access of 'Get_hranapreferata'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: could be the 'Get_hranapreferata' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: or could be the 'Get_hranapreferata' in base 'CAnimal'
-c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): error C2385: ambiguous access of 'Get_cantitatepezi'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: could be the 'Get_cantitatepezi' in base 'CAnimal'
-  c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\readwrite.cpp(156): note: or could be the 'Get_cantitatepezi' in base 'CAnimal'
-  Main.cpp
+﻿  Main.cpp
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\main.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   CVulpe .cpp
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\cvulpe .cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\cvulpe .cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\cvulpe .cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
   CUrs.cpp
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\curs.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
@@ -138,6 +36,8 @@ c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\cleu.cpp(3
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\cleu.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\cleu.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
   CIepure .cpp
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\ciepure .cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
@@ -165,4 +65,12 @@ c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\canimal.cp
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
 c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\canimal.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\canimal.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\canimal.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\canimal.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
   Generating Code...
+  POO_lab5.vcxproj -> C:\Users\Ioan\documents\visual studio 2015\Projects\POO_lab5\Debug\POO_lab5.exe
+  POO_lab5.vcxproj -> C:\Users\Ioan\documents\visual studio 2015\Projects\POO_lab5\Debug\POO_lab5.pdb (Full PDB)

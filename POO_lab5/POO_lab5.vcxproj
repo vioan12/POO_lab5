@@ -152,7 +152,6 @@
     <ClCompile Include="CUrs.cpp" />
     <ClCompile Include="CVulpe .cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="ReadWrite.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Rezervatie.h" />
