@@ -17,3 +17,13 @@ CVulpe::~CVulpe()
 	delete temperaturamaxima;
 	delete[] tip;
 }
+
+float* CVulpe::Get_temperaturamaxima()
+{
+	return temperaturamaxima;
+}
+
+char* CVulpe::Get_tip()
+{
+	return tip;
+}

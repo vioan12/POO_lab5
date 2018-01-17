@@ -12,3 +12,8 @@ CIepure::~CIepure()
 {
 	delete suprafataminima;
 }
+
+float* CIepure::Get_suprafataminima()
+{
+	return suprafataminima;
+}

@@ -12,3 +12,8 @@ CUrs::~CUrs()
 {
 	delete perioadahibernare;
 }
+
+int* CUrs::Get_perioadahibernare()
+{
+	return perioadahibernare;
+}

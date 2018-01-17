@@ -1,0 +1,55 @@
+﻿  CAnimal.cpp
+CAnimal.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+CAnimal.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+CAnimal.cpp(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+CAnimal.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  CAnimalCarnivor.cpp
+CAnimalCarnivor.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CAnimalIerbivor.cpp
+CAnimalIerbivor.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CCaprioara.cpp
+CCaprioara.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CIepure .cpp
+CIepure .cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CLeu.cpp
+CLeu.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+CLeu.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  CRezervatie.cpp
+CRezervatie.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CUrs.cpp
+CUrs.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CVulpe .cpp
+CVulpe .cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+CVulpe .cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Main.cpp
+Main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ioan\documents\visual studio 2015\projects\poo_lab5\poo_lab5\Rezervatie.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  POO_lab5.vcxproj -> C:\Users\Ioan\Documents\Visual Studio 2015\Projects\POO_lab5\Release\POO_lab5.exe
+  POO_lab5.vcxproj -> C:\Users\Ioan\Documents\Visual Studio 2015\Projects\POO_lab5\Release\POO_lab5.pdb (Full PDB)

@@ -12,3 +12,8 @@ CCaprioara::~CCaprioara()
 {
 	delete nrpui;
 }
+
+int* CCaprioara::Get_nrpui()
+{
+	return nrpui;
+}

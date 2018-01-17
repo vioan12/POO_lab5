@@ -17,3 +17,13 @@ CLeu::~CLeu()
 	delete temperaturaminima;
 	delete[] taraprovenienta;
 }
+
+float* CLeu::Get_temperaturaminima()
+{
+	return temperaturaminima;
+}
+
+char* CLeu::Get_taraprovenienta()
+{
+	return taraprovenienta;
+}
